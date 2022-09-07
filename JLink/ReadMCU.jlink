@@ -1,0 +1,4 @@
+savebin build\IgbtVoltageInverter.bin, 0x00, 0x4000
+r
+g
+q
